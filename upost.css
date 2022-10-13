@@ -1,0 +1,68 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+  }
+input
+{
+    text-align: right;
+   
+}
+.form-group
+{
+    width: 700px;
+    margin-left: 20%;
+    border: 1px solid rebeccapurple;
+    margin-top: 20px;
+}
+/*select*/
+.form-control-lg
+{
+    width: 700px;
+    margin-left: 20%;
+    margin-bottom: 10px;
+   
+}
+/*fiel*/
+.custom-file
+{
+    width: 700px;
+    margin-left: 20%; 
+}
+
+.custom-file-label
+{
+    width: 700px;
+    margin-left: 24%; 
+}
+/* button*/
+.cont
+{
+    text-align:center;
+    background-color: cadetblue;
+    color: white;
+}
+.cont:hover
+{
+   background-color: teal;
+    color: white;
+    
+}
+#file
+{
+    margin-left: 270px;
+    border: 1px solid rebeccapurple;
+}
+
+textarea
+ {
+   text-align: right;
+   padding-left: 800px;
+   color: teal;
+ }
+
+  
+
+  

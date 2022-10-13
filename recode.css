@@ -1,0 +1,32 @@
+input
+{
+    text-align: right;
+}
+.form-control
+{
+    width: 700px;
+    margin-right: 20%;
+    border: 1px solid rebeccapurple;
+    margin-top: 20px;
+}
+.cont
+{
+    text-align:center;
+}
+.cont:hover
+{
+    background-color: rebeccapurple;
+    color: white;
+    
+}
+.alert-primary
+{
+    width: 700px; 
+    margin-left: 20%;
+    text-align:center;
+    background-color:rgb(31, 162, 167) ;
+    font-size: 20px;
+    color: white;
+    margin-top: 10px;
+}
+   
